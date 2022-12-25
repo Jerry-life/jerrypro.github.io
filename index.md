@@ -58,6 +58,14 @@ Favicon就是妳網頁的圖標，它會出現在瀏覽器標籤列的左方<br/
 把你想要的圖標通過[cloudconvert](https://cloudconvert.com/png-to-ico)轉換，並重命名為***favicon.ico***，上傳即可!
 
 ### Part 6 啟用Github page
+![step1](./Resources/resource9.png)
+![step2](./Resources/resource10.png)
+![step3](./Resources/resource11.png)
+![step4](./Resources/resource12.png)
+![step5](./Resources/resource13.png)<hr/>
+等待數分鐘並看到以下畫面，即代表成功!
+![step6](./Resources/resource13-end.png)
 
-
+### Part 7 END
+感謝妳的參閱！❤ Supported by ***JERRYPRO***
 [^1]: 在此步驟中，妳不能把文件名改為其他，必須為**index.xxx**。否則Github page將不能檢測其為主頁面，可能導致404的錯誤。
