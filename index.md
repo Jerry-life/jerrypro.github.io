@@ -8,3 +8,6 @@ layout: default
 2. [Vscode](https://code.visualstudio.com/) [IF you need]
 3. [Github desktop](https://desktop.github.com/) [IF you need]
 ### Part 2 建立容器並上傳必要文件
+1. 建立容器<br/>
+![step1](./resource1.png)
+![step2](./resource2.png)
