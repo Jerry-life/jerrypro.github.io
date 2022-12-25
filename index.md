@@ -25,5 +25,10 @@ D. 點擊並下載本網頁中的zip源碼，並解壓<br/>
 ![step3](./Resources/resource7.png)
 ![step4](./Resources/resource8.png)<br/>
 E. 在【D】中已解壓的_layouts文件夾完整拖動並上傳
+#### Part 2 Summary
+經過以上步驟，妳應該會得到一下的文件(excluded***Resources***&***favicon.ico***)
+![Summary](./Resources/resource1-end.png)
+
+### Part 3 修改config
 
 [^1]: 在此步驟中，妳不能把文件名改為其他，必須為**index.xxx**。否則Github page將不能檢測其為主頁面，可能導致404的錯誤。
