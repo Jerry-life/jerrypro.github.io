@@ -9,5 +9,13 @@ layout: default
 3. [Github desktop](https://desktop.github.com/) [IF you need]
 ### Part 2 建立容器並上傳必要文件
 1. 建立容器<br/>
-![step1](./resource1.png)
-![step2](./resource2.png)
+![step1](./Resources/resource1.png)
+![step2](./Resources/resource2.png)
+所有設置以默認即可，按**Create repository**建立容器
+
+2. 創建***index.md***作為妳的根文件<br/>
+![step1](./Resources/resource3.png)
+![step2](./Resources/resource4.png)<br/>
+***重要[^1]***
+
+[^1]: 在此步驟中，妳不能把文件名改為其他，必須為**index.xxx**。否則Github page將不能檢測其為主頁面，可能導致404的錯誤。
