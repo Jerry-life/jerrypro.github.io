@@ -30,5 +30,34 @@ E. 在【D】中已解壓的_layouts文件夾完整拖動並上傳
 ![Summary](./Resources/resource1-end.png)
 
 ### Part 3 修改config
+在開始前，請參閱以下官方文獻，有助你將來的操作：[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) & [Supported themes](https://pages.github.com/themes/)
+```
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: JERRY PRO[By YouTube]
+description: Build your first website without code!
+show_downloads: true
+```
+***remote_theme*** & ***plugins***是根據妳需要的皮膚所更改的。<br/>
+***title***是妳網頁的標題。<br/>
+***show_downloads***決定了網頁是否允許與顯示下載源碼按鈕。<br/>
+
+### Part 4 修改index
+在開始前，請參閱以下官方文獻，有助你將來的操作：[Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+```
+---
+layout: default
+---
+# Hello World
+```
+請根據[Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)所提供的入門語法，修改妳index.md的內容。請注意這將會是你網頁將會顯示的內容。
+
+### Part 5 修改Favicon
+Favicon就是妳網頁的圖標，它會出現在瀏覽器標籤列的左方<br/>
+把你想要的圖標通過[cloudconvert](https://cloudconvert.com/png-to-ico)轉換，並重命名為***favicon.ico***，上傳即可!
+
+### Part 6 啟用Github page
+
 
 [^1]: 在此步驟中，妳不能把文件名改為其他，必須為**index.xxx**。否則Github page將不能檢測其為主頁面，可能導致404的錯誤。
