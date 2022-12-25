@@ -8,14 +8,22 @@ layout: default
 2. [Vscode](https://code.visualstudio.com/) [IF you need]
 3. [Github desktop](https://desktop.github.com/) [IF you need]
 ### Part 2 建立容器並上傳必要文件
-1. 建立容器<br/>
+A. 建立容器<br/>
 ![step1](./Resources/resource1.png)
 ![step2](./Resources/resource2.png)
 所有設置以默認即可，按**Create repository**建立容器
 
-2. 創建***index.md***作為妳的根文件<br/>
+B. 創建***index.md***作為妳的根文件<br/>
 ![step1](./Resources/resource3.png)
 ![step2](./Resources/resource4.png)<br/>
 ***重要[^1]***
+
+C. 參考【B】創建_config.yml<br/>
+D. 點擊並下載本網頁中的zip源碼，並解壓<br/>
+![step1](./Resources/resource5.png)
+![step2](./Resources/resource6.png)
+![step3](./Resources/resource7.png)
+![step4](./Resources/resource8.png)<br/>
+E. 在【D】中已解壓的_layouts文件夾完整拖動並上傳
 
 [^1]: 在此步驟中，妳不能把文件名改為其他，必須為**index.xxx**。否則Github page將不能檢測其為主頁面，可能導致404的錯誤。
